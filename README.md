@@ -1,2 +1,2 @@
 # price_checker
-Oránként lecsekkolja az adoot weboldalunk levő termék árát, hogy a kívánt ár alatt van e az értéke.
+Óránként lecsekkolja az adott weboldalonk levő termék árát, ha a kívánt ár alatt van az értéke azt jelzi.
